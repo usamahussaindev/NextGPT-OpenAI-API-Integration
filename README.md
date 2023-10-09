@@ -2,7 +2,9 @@
 
 📁 **Android_ChatGPT Repository**
 
-Welcome to the Android_ChatGPT repository! This repository contains the source code for a chat application that utilizes the OpenAI API and integrates with OkHttp. The app enables users to have conversations with an AI model powered by OpenAI's GPT-3 language model.<br>  🤖💬 
+Welcome to the Android_ChatGPT repository! This repository contains the source code for a chat application that utilizes the OpenAI API and integrates with OkHttp. The app enables users to have conversations with an AI model powered by OpenAI's GPT-3 language model.
+
+
 ![presentationopen-ai-chat-gpt4-3pptx-1-2048](https://github.com/usamahussaindev/NextGPT-OpenAi-API/assets/118635657/efa601d2-3cd3-4fce-bccc-14373791a209)
 
 
