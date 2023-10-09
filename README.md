@@ -16,7 +16,8 @@ Welcome to the Android_ChatGPT repository! This repository contains the source c
 - Chat with an AI model using OpenAI's powerful GPT-3 language model.
 - Utilizes OkHttp library for seamless API integration.
 - Simple and user-friendly interface for smooth conversation flow.<br>  
-![Screenshot 2023-07-07 155733](https://github.com/Usamahussain56/NextGPT/assets/118635657/b537ac88-229d-4a95-b254-c61694b0b274)<br>  
+![Screenshot 2023-07-07 155733](https://github.com/Usamahussain56/NextGPT/assets/118635657/b537ac88-229d-4a95-b254-c61694b0b274)<br>
+
 📋 **Requirements**
 
 To run this app, you will need the following:
